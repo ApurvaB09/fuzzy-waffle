@@ -1,0 +1,109 @@
+. Thank you for asking. I would describe myself as a collaborative & solution driven software developer with over 5 years of experience working with designers/analysts/developers/stakeholders. I've already contributed to over  half dozen porjects as part of one our firm's long-time clients
+Something I' ve enjoyed & have been able to use in my current role is leveraging my exp to help identify & resolve complex issues.
+And over last few years I have beenw orking on developing web applications, backend services integration with APIs which involves C, JAVA, JS, Angular
+Also, I believe my exp has allowed me to hone my attention to detail & critical thinking skills as well as enhance my comm skills working on team based projects with clients.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Actions taken for digital skills.
+Situation : There was totally a new requirement to integrate our servers & 3rd party servers with AWS S3 to read and transfer data to 3rd party DB
+Task -> With the trainings I had taken related to AWS S3 & the expertise I had in control-m, I was asked to take it up and deliver it
+Action -> I had to collaborate and work with 3 different teams altogether, one was AWS S3 team, second the 3rd party team & third was the scheduling team.
+
+
+-> AWS S3 training & labs excercise heled me implmenting the same within our project.
+fin-branch-fip-rof, fincore DB
+-> Calling an API from shell script via control-m batch job
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6. 
+a.] Payments Landing Page revamp
+Situation -> Yes, there was a situation when I had to convince the complexity of the revamp of the paments landing page designs
+
+Task -> My job was to explain the reason of the complexity & also to advise on the different approaches to deliver the new designs development before mass rollout
+
+Action -> I gathered all the information from the UX team,Analyst from bussines perspective. And looking into all the designs and approaches to call an API to fetch entitlements, there would have been loads of permutations & combinations which would create issue with Custom roles & there would have been chances to miss certain combination. So, I explained the pros & cons of the existing design vs the enw design, and looking into the flexibility of the technical changes along with the devlovery timelines, they were happy & also by this I got the approval
+
+b.] Incident on Bulk Finacle access issue due to custom role for manage single payments service missing
+
+Situation -> Yes, there was a time, when Customer & Stakeholder were upset due to the issue faced by the Customer and there was a delay in processing the payment from new 3rd party application
+
+Task -> My job was to calm the customer & Stakeholder down and find a solution to their problem
+
+Action -> I listened carefully to the customer's conerns & acknowledged the same. And, requested some time for the analysis and the root cause. I with the help of QA team tried replicating in PRE with the same details shared by Customer.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. 
+
+a.] SMM Delivery 
+Situation -> Our team was tasked for completing a complex project with demanding deadlines and high stakes. And one of our team member was on bed rest due to which made the situation of the project more worse.
+
+Task -> As a team player, it was crucial for me to ensure effective coordination & support to meet the project requirements.
+
+Action -> I held a kick-off meeting to discuss on open items for the database migration and allocate responsibilities to myself and other team members so that it could be fast tracked & deadlines could be met. I supported the team by communicating with CORO team, API team on closing all sort of testing and getting sign off from the PRE-pROD environment. I regularly checked in with team members to track progress, provide assistance whereever needed. I also encouraged open communication & collaboration with other teams to avoid any delay. And pre planned the go LIVE requirements to ensure the smooth migration without impacting any LIVE customers.
+
+b.] Mass rollout strategy
+Situation -> My team was asked to prepare the strategy & plan for the rolling out all the 25k Customers to use the new 3rd party application to the stakeholders on priority
+
+Task -> As a team player & leader, I took the ownership to prepare a plan by teaming up with all the core members as everyone on our team had different responsibilities but we all had to work as one unit to crack the strategy.
+
+Action -> I quickly setup a call or you can say a brain storming session invited all the core members in the call. This was definitely not completed on day 1,as there were loads of analysis, data research, migration stats, time management, challenges, mock migration runs to be investigated to come up with the strategy/approach and plans. I had distributed the tasks among team members to cut short the time and gather the details quickly istead of relying on 1-2 person.
+
+Result -> The presentation went well with the plans/strategsies shared by me & my team to the stakeholders. That was an amazing discussion with evyerone's participation & with this we were able to finalise and conclude the plan
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. 
+a.] Export functionality blocker
+Situation -> Yes, days when climate was not at all great and any moving dates as part of releases were not being well received by stakeholders.
+
+Task -> My job was to explain the issue and the reason for the issue occured. And why this was not caught in the lower enviroment & why this can't go as part of current release
+
+Action -> I gathered all the information from the team with which we had integrated our API with, the issue, the fix & the timelines required to fix that. As, I knew that's one of the fucntionalities without which the release won't be happening but I thought from business perspective and quickly got the Customers Stats using that functionality as of now in the Legacy application ans it was too low. So, with the fix plan & this Customer stats, I was able to gaint he Customer's confidence and go ahead with the release.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. 
+
+a.] Approach on the change requests/releases creation
+Situation -> As part of one of the other projects, there was a delivery planned into PRE on priority basis & I was asked to help the team to deploy by raising release/change request
+
+Task -> I needed to clarify and explain the process of the release creation and the lead times approach for deploying to PRE
+
+Action -> I setup a call with the team & the manager. And I calmly explained the process of raising any change request or a release to change management. As, any last moment changes and expecting to deploy same day will not be entertained by the change management team based on the experience I had with my projects deployments. So, I gave a short KT on how to raise release, what are the lead times and also to undertsand the change first and then go ahead raising the release.
+
+Result -> With the explanation, the team was able to raise the release, and going forward they started to plan for any change 2-3 days early to deploy the changes on time in adherance to all the processes.
+
+b.]release level micro planning was not there which resulted in missed steps, clashing with other changes and delay in delivery
+
+Situation -> Yes, there was a time during project status calls I used to hear the failed changes because of missed steps which delayed the deployment and further project readiness
+
+Task -> I needed to communicate this without throwing blame on poor micro planning or causing a conflict and rather work together to solutionise the problem.
+
+Action -> I approached the scrum master/release manager who were handling all the deployments/releaes and timelines, and I started the cnversion by acknowledging their hard work. Then I explained the problem clearly on how to remediate to not further miss any deployment steps and clash the two mor more changes resulting into the delay of other priority projects. I helped them on suggesting to maintain a template for all the project releases, as the deployment strategy would be same and track the same from PRE to PRO to go LIVE & keep the calls on regular basis to check on the progress.
+
+Result -> they appreciated the approach and started implementing it for all the projects slowly and gradually which has resulted in less project clashes
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7.
+As per my experience, deciding when to escalate an issue depends on the amount of risk it can bring to the company. Because escalating an issue can lead to difficult meetings and cause disruptions in work. I prefer to reserve them for issues that truly require escalation.
+I prefer to avoid escalating an issue by solving the problem with the individual first, within the team. It could be anything on application side, any vulnerabilities that can be resolved by the teams support.
+If it's a known issue or any risk identified as part of Penetration testing that needs to be mitigated, firstly to identify 
+
+But some issues need an escalation as in when there is a project delay which is causing me or other team members to take on a significant anount of extra work. Also, I have tried other strategies to fix the issue but were unsuccessful
+
+Situation -> As part of one of the project's release, the standard pen test was done by security team. And some vulnerabilities were flagged which were impacting 4 critical projects
+Task -> I 
+Action -> The application is found to host a moment.js library which is known to be affected by multiple vulnerabilities. The presence of a vulnerable library does not necessarily mean that the application is vulnerable, however the library could allow a vulnerability to be introduced even when secure code practices are followed.  Looking at the very high business impact and by not making new features live, we are not able to reduce the risk as these are existing defects in production. Hence, we request the waiver till September end to promote the security fixes.
+
+
+
+a.] BKS delivery before the deadline went for a toss due to unforeseen issues.
+
+Situation -> Yes, there was a situation when the BKS delivery was on critical path & and there was a risk to the pilot rollout 
+
+Task -> My task was to quickly jump into it and figure it out within a day to not hamper the strict delivery timelines & delay the pilot rollout for this feature
+
+Action -> I immediately priotitized my tasks & set aside less urgent work. I collaborated closely with the networks team, the senior tech team on what could be the issue. I tried all the server pings on connections, on to check where it was failing. These workarounds took time, and thus the risk had to be escalated to the higher authority to access the support on priority basis to not hamper the delivery timeline. Also, after getting the root cause, there was againt the support needed from the Change management to deploy the changes in production as soon as possible.
